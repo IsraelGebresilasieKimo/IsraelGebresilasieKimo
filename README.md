@@ -1,17 +1,11 @@
 ### Hi there 👋
 
+I am a Lecturer @ [Arba minch University](https://www.amu.edu.et/). Skilled in Python, R, ArcGIS, Lecturing, Climate Change, Ocean-Atmosphere interaction, Tropical Meteorology,Numerical weather prediction and Atmospheric Daynamics. Strong education professional with a Master of Science (MSc) in Climate Change and Development. I have a strong motivation to learn new methods and do research in Climate Science.
 
-**IsraelGebresilasieKimo/IsraelGebresilasieKimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ## Employment
 -[Arba minch University](https://www.amu.edu.et/)
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on Climate Change
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 
