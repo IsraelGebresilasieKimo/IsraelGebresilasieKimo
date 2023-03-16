@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!--
+
 **IsraelGebresilasieKimo/IsraelGebresilasieKimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-** Employment
+## Employment
 -[Arba minch University](https://www.amu.edu.et/)
 Here are some ideas to get you started:
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
