@@ -6,6 +6,11 @@ I am a Lecturer @ [Arba minch University](https://www.amu.edu.et/). Skilled in P
 ## Employment
 -[Arba minch University](https://www.amu.edu.et/)
 
+-[LinkedIn](linkedin.com/in/israel-gebresilasie-106a4a219)
+
+-[Tiwter](https://twitter.com/KimoIsrael)
+
+
 
 
 
